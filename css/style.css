@@ -94,6 +94,15 @@ section {
     margin-top: 0.25rem;
 }
 
+.lower-row {
+    position: relative;
+    margin-top: 0.25rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .description {
     margin-top: 0.5rem;
     border-bottom: 1px solid #ddd;
