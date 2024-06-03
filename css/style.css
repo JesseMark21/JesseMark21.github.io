@@ -97,6 +97,7 @@ section {
 
 .description {
     margin-top: 0.5rem;
+    border-bottom: solid #ddd;
 }
 
 .company, .school-name{
