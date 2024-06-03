@@ -91,6 +91,8 @@ section {
 
 .upper-row {
     position: relative;
+
+    margin-top: 0.5rem;
 }
 
 .company, .school-name{
