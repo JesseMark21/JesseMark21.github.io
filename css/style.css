@@ -31,6 +31,7 @@ h2 {
 .profile {
     text-align: center;
     padding-bottom: 15px;
+    position: sticky;
 }
 
 .profile h1 {
