@@ -91,13 +91,14 @@ section {
 
 .upper-row {
     position: relative;
-    margin-top: 0.5rem;
+    margin-top: 0.25rem;
 }
 
 .description {
     margin-top: 0.5rem;
     border-bottom: 1px solid #ddd;
     padding-bottom: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .company, .school-name{
